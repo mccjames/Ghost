@@ -103,7 +103,7 @@
         "typescript": "5.9.3",
         "vite": "5.4.21",
         "vite-plugin-svgr": "3.3.0",
-        "vitest": "1.6.1"
+        "vitest": "5.0.5"
     },
     "dependencies": {
         "@hookform/resolvers": "5.2.2",
